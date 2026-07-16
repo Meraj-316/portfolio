@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-🔗 https://Meraj-316.github.io/portfolio/
+🔗 https://meraj-316.github.io/portfolio/
 
 ## 📸 Portfolio Preview
 
